@@ -1,6 +1,6 @@
 # RMTFNet
 
-## Reliability-Guided Temporal Propagation for Efficient All-in-One Video Restoration
+##  Reliable Motion-Guided Temporal-Frequency Network for Efficient All-in-One Video Restoration
 
 RMTFNet is a lightweight video restoration framework for all-in-one video restoration and dynamic scene deblurring. It is built around reliable temporal propagation and contains three compact modules:
 
